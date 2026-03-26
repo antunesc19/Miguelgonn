@@ -53,7 +53,7 @@ Execute as células em ordem
 
 ### 📷 Prints da execução
 
-## 🤝 Contribuidores
+### 🤝 Contribuidores
 
 - [Miguel Antunes](https://github.com/antunesc19)
 - [Ana Gabi](https://github.com/anagabirw)
